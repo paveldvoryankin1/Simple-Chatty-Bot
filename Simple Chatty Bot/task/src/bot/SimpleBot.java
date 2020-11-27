@@ -49,7 +49,7 @@ public class SimpleBot {
 
         System.out.println("1. Java");
         System.out.println("2. Oleg");
-        System.out.println("3. Beer");
+        System.out.println("3. Sex");
         System.out.println("4. Ice cream");
 
         int currAnswer = scanner.nextInt();

@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2229#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 13. Runtime error\n\nThis is a sample test from the\
+    \ problem statement!\n\nTest input:\n6188989133\nCorrect output:\n13\n\nYour code\
+    \ output:\n\n\nError:\nException in thread \"main\" java.util.InputMismatchException:\
+    \ For input string: \"6188989133\"\n\tat java.base/java.util.Scanner.nextInt(Scanner.java:2264)\n\
+    \tat java.base/java.util.Scanner.nextInt(Scanner.java:2212)\n\tat Main.main(Main.java:7)\n"
+  time: Tue, 24 Nov 2020 10:05:33 UTC
+record: -1
